@@ -325,6 +325,9 @@ See [hiSHtory: Cross-device Encrypted Syncing Design](https://blog.daviddworken.
 * You can delete items from your history as needed. 
 * If you go offline, you'll have an offline copy of your history. And once you come back online, syncing will transparently resume.
 
+### Docker
+[LinuxServer.io](https://hub.docker.com/r/linuxserver/hishtory-server)
+
 ## Contributing
 
 Contributions are extremely welcome! I appreciate all contributions in terms of both issues (please let me know about any bugs you find!) and PRs. 
